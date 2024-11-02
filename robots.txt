@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epipouyu.github.io/Pek/sitemap_index.txt
+Sitemap: https://epipouyu.github.io/TUk/sitemap_index.txt
+Sitemap: https://epipouyu.github.io/jVS/sitemap_index.txt
+Sitemap: https://epipouyu.github.io/nuP/sitemap_index.txt
